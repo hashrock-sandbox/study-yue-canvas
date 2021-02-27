@@ -7,9 +7,9 @@ download-yue@2.x:
   resolved "https://registry.yarnpkg.com/download-yue/-/download-yue-2.0.2.tgz#6a9aadc7a32e3963104d87d57a199a2523032a0b"
   integrity sha512-xLgE/XcSXVrtu1f8uYOgiqkOf4DcyrZCI+wORHOFxhqo4+4pn30SbgHY9qhlWHugGV+7oXaXQmWhwd0J77tS2w==
 
-gui@^0.9.1:
-  version "0.9.1"
-  resolved "https://registry.yarnpkg.com/gui/-/gui-0.9.1.tgz#d2df016b009c5a7fe22fde6987b13486451541de"
-  integrity sha512-fb7Oe3bOgXai1mq7UbpAAeGil3+h7YuwC3SOedJBqRkdgb8RlUNpUgfgFNhfK6Buh2lYwXCvwndytpPAvERmcw==
+gui@^0.9.5:
+  version "0.9.5"
+  resolved "https://registry.yarnpkg.com/gui/-/gui-0.9.5.tgz#18a20042b6234d89d111868b02c069f51a54243f"
+  integrity sha512-R28YCeWXJY+aTzZ24ulM6qlZMm+H3GRq72CtcffcCQ+tDAPH9VG1/QGaMFkZEDY99j0DgJsIDInPUZ9j8CY7hg==
   dependencies:
     download-yue "2.x"
